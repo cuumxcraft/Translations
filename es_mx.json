@@ -30,7 +30,7 @@
   "lacImportFailed": "¡No se pudo realizar la importación, revisar el registro por favor!",
   "sessionContinue": "Tu sesión está abierta desde hace %sec% segundos.",
   "messageLogin": "Para iniciar sesión usa /login <Contraseña> por favor.",
-  "messageRegister": "Para registrarse usa /register <Contraseña> por favor.",
+  "messageRegister": "Para registrarse usa /register <Contraseña> <Confirma Contraseña> por favor.",
   "errorRefreshProfile": "¡Tú cuenta ha sido modificado por un tercero, reinicie por favor!",
   "errorNotRegistered": "¡El usuario no se encuentra registrado!",
   "kickAlreadyOnline": "¡El jugador ya está en línea!",
